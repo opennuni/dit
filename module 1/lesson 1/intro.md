@@ -36,3 +36,7 @@ IT support professionals play an instrumental role in safeguarding sensitive bus
 ***4. User Satisfaction:*** 🤝
 
 IT support plays an integral part in providing users with positive experiences. When employees encounter technical obstacles, prompt and effective support helps build employee trust in an organisation's IT infrastructure - leading to enhanced worker morale as well as higher productivity rates and superior customer care services.
+
+# So 🤔 what is Information Technology (IT) support? 
+
+***It's the provision of technical assistance and solutions to end-users.***
