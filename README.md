@@ -9,7 +9,7 @@ The Open Diploma in IT is designed to cater to a wide range of learners, from be
 
 # Curriculum Highlights
 
-The curriculum of the Open Diploma in IT covers a broad range of topics essential for IT professionals. Key areas of study include:
+The curriculum of the Openn Diploma in IT covers a broad range of topics essential for IT professionals. Key areas of study include:
 
 - Foundations of Computing and IT: Introduction to basic concepts, hardware, software, and the role of IT in society.
 - Programming and Software Development: Courses on various programming languages (e.g., Python, Java, JavaScript), software engineering principles, and application development.
@@ -38,7 +38,8 @@ The curriculum of the Open Diploma in IT covers a broad range of topics essentia
   
 ***3. Recognition and Accreditation:***
 
-- Upon completion, students receive an Open Diploma in IT, which is recognized by participating institutions and can enhance employment prospects.
+- Upon completion, students receive an Openn Diploma in IT, which is recognized by participating institutions and can enhance employment prospects. Upon completion you can mail us at [accredit.opennuni@onmail.com](mailto:accredit.opennuni@onmail.com)
+- ***Note*** that before sending us the email access the round phase of Openn DIT for the completion of the DIT via visiting at [opennunidit.pages.dev](https://opennunidit.pages.dev) 
 
 ***4. Support and Community:***
 
