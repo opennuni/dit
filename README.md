@@ -1,4 +1,6 @@
-<img src="./img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
+<img src="./img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto"> 
+
+# Openn University
 
 # Diploma in IT
 [Openn Diploma in IT](./M1/L1/intro.md)
@@ -18,6 +20,10 @@ The curriculum of the Openn Diploma in IT covers a broad range of topics essenti
 - Data Management and Analysis: Training in database management, big data technologies, data visualization, and analytics.
 - Cybersecurity: Fundamentals of network security, ethical hacking, and data protection strategies.
 - Web and Mobile Development: Skills for designing and developing responsive websites and mobile applications.
+
+# Explore the Openn DIT Curriculum 
+
+- [Module 1: Foundations of IT Support](./M1/L1/intro.md)
 
 # Benefits of the Program
 
@@ -41,7 +47,9 @@ The curriculum of the Openn Diploma in IT covers a broad range of topics essenti
 ***3. Recognition and Accreditation:***
 
 - Upon completion, students receive an Openn Diploma in IT, which is recognized by participating institutions and can enhance employment prospects. Upon completion you can mail us at [accredit.opennuni@onmail.com](mailto:accredit.opennuni@onmail.com)
-- ***Note*** that before sending us the email access the round phase of Openn DIT for the completion of the DIT via visiting at [opennunidit.pages.dev](https://opennunidit.pages.dev) 
+- ***Note*** that before sending us the email access the round phase of Openn DIT for the completion of the DIT via visiting at [opennunidit.pages.dev](https://opennunidit.pages.dev)
+
+© Openn University 
 
 ***4. Support and Community:***
 
