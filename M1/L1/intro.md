@@ -1,4 +1,4 @@
-<img src="/img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
+<img src="https://opennuni.github.io/dit/img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
 
 # Module 1: Foundations of IT Support
 
@@ -16,8 +16,8 @@
 ***Topics that will be covered in this module***
 
 - [Introduction and overview of IT and IT Support](#Definition-and-Overview-of-IT-Support)
-- [Different Types of IT Support](/M1/L1/TIS.md)
-- [Roles & Responsibilities of IT Support](/M1/L1/RAR.md)
+- [Different Types of IT Support](https://opennuni.github.io/dit/M1/L1/TIS.html)
+- [Roles & Responsibilities of IT Support](https://opennuni.github.io/dit/M1/L1/RAR.html)
 
 ## Definition and Overview of IT Support 👨🏻‍💻
 
@@ -53,7 +53,7 @@ IT support plays an integral part in providing users with positive experiences. 
 
 
 
-[***Next Types of IT Support 👉***](./M1/L1/Types of IT Support.md)
+[***Next Types of IT Support 👉***](https://opennuni.github.io/dit/M1/L1/TIS.html)
 
 
 © Openn University initiated under [ECL-1.0](#) [AFL-3.0](#)  
