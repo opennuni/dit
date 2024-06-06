@@ -43,4 +43,7 @@ IT support plays an integral part in providing users with positive experiences. 
 
 
 
-[***Next Types of IT Support 👉***](./M1/L1/Types%20of%20IT%20Support.md)
+[***Next Types of IT Support 👉***](./M1/L1/Types of IT Support.md)
+
+
+© Openn University initiated under [ECL-1.0](#) [AFL-3.0](#)  

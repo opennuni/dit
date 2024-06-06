@@ -23,3 +23,6 @@ IT support professionals use their experience and know how to address incidents 
 ***5. Proactive Monitoring and Prevention:***
 
 IT support professionals actively monitor systems and networks proactively in order to detect any potential disruptions before they become serious issues, taking preventive steps like backing up systems, applying security patches and optimising performance optimization in order to minimise technical problems as much as possible.
+
+
+© Openn University initiated under [ECL-1.0](#) [AFL-3.0](#)  

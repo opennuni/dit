@@ -23,3 +23,6 @@ IT professionals using remote support enable IT specialists to diagnose and reso
 ***Application Support***
 
 Application support provides assistance and advice regarding software-related matters for users, such as installing programs and troubleshooting errors. It may also involve providing guidance regarding usage or customization needs for existing apps.
+
+
+© Openn University initiated under [ECL-1.0](#) [AFL-3.0](#)  
