@@ -53,7 +53,7 @@ IT support plays an integral part in providing users with positive experiences. 
 
 
 
-[***Next Types of IT Support 👉***](https://opennuni.github.io/dit/M1/L1/TIS.html)
+[***Next Types of IT Support 👉***](https://opennuni.github.io/dit/M1/L2/TIS.html)
 
 
 © Openn University initiated under [ECL-1.0](#) [AFL-3.0](#)  
