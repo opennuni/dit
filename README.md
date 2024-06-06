@@ -1,5 +1,5 @@
 # Diploma in IT
-Openn Diploma in IT
+[Openn Diploma in IT](/module%201/lesson%201%20)
 
 The Open Diploma in Information Technology (IT) is an innovative educational program offered by Openn University in collaboration with various open-source universities. This partnership leverages the strengths of open education resources and institutions to provide a flexible, accessible, and comprehensive learning experience in the field of IT.
 
