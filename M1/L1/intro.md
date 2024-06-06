@@ -1,4 +1,4 @@
-<img src="./img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
+<img src="../img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
 
 # Module 1: Foundations of IT Support
 
@@ -16,8 +16,8 @@
 ***Topics that will be covered in this module***
 
 - [Introduction and overview of IT and IT Support](#Definition-and-Overview-of-IT-Support)
-- [Different Types of IT Support](./M1/L1/TIS.md)
-- [Roles & Responsibilities of IT Support](./M1/L1/RAR.md)
+- [Different Types of IT Support](../M1/L1/TIS.md)
+- [Roles & Responsibilities of IT Support](.../M1/L1/RAR.md)
 
 ## Definition and Overview of IT Support 👨🏻‍💻
 
