@@ -1,3 +1,5 @@
+<img src="./img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto"> 
+
 # Different Types of IT Support
 
 **Types of Information Technology (IT)Support**

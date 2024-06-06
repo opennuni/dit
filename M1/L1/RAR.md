@@ -1,3 +1,5 @@
+<img src="./img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
+
 # IT Support Roles and Responsibilities 🤓
 
 IT support professionals play an essential role in ensuring the proper operation of technology systems within an organisation, regardless of its size and complexity. Their responsibilities may differ according to each business; here are some typical roles and responsibilities associated with IT support:
