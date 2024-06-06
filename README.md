@@ -1,4 +1,4 @@
-<img src="/img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
+<img src="https://github.com/opennuni/dit/blob/main/img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png" alt="image" width="60" height="auto">
 
 # Diploma in IT
 [Openn Diploma in IT](/module%201/lesson%201%20)
