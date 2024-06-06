@@ -26,5 +26,7 @@ IT professionals using remote support enable IT specialists to diagnose and reso
 
 Application support provides assistance and advice regarding software-related matters for users, such as installing programs and troubleshooting errors. It may also involve providing guidance regarding usage or customization needs for existing apps.
 
+[***Roles & Responsibilities of IT Support 👉***](https://opennuni.github.io/dit/M1/L1/RAR.html)
+
 
 © Openn University initiated under [ECL-1.0](#) [AFL-3.0](#)  
