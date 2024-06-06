@@ -1,3 +1,5 @@
+![opennuni logo](https://github.com/opennuni/dit/blob/main/img/k5vzrqrsbmqjth7qgmkt0ve7pvuk.png)
+
 # Diploma in IT
 [Openn Diploma in IT](/module%201/lesson%201%20)
 
