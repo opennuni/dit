@@ -49,9 +49,10 @@ The curriculum of the Openn Diploma in IT covers a broad range of topics essenti
 - Upon completion, students receive an Openn Diploma in IT, which is recognized by participating institutions and can enhance employment prospects. Upon completion you can mail us at [accredit.opennuni@onmail.com](mailto:accredit.opennuni@onmail.com)
 - ***Note*** that before sending us the email access the round phase of Openn DIT for the completion of the DIT via visiting at [opennunidit.pages.dev](https://opennunidit.pages.dev)
 
-© Openn University 
-
 ***4. Support and Community:***
 
 - Despite being an online program, students benefit from robust support systems, including academic advising, online forums, and peer networks.
 - Interactive elements such as webinars, live Q&A sessions, and collaborative projects foster a sense of community and engagement.
+
+
+© Openn University initiated under [ECL-1.0](#) [AFL-3.0](#)  
