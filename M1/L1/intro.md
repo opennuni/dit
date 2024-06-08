@@ -16,8 +16,9 @@
 ***Topics that will be covered in this module***
 
 - [Introduction and overview of IT and IT Support](#Definition-and-Overview-of-IT-Support)
-- [Different Types of IT Support](https://opennuni.github.io/dit/M1/L1/TIS.html)
-- [Roles & Responsibilities of IT Support](https://opennuni.github.io/dit/M1/L1/RAR.html)
+- [Different Types of IT Support](https://opennuni.github.io/dit/M1/L2/TIS.html)
+- [Roles & Responsibilities of IT Support](https://opennuni.github.io/dit/M1/L3/RAR.html)
+- [Understanding IT Infrastructure](https://opennuni.github.io/dit/M1/L4/UII.html)
 
 ## Definition and Overview of IT Support 👨🏻‍💻
 
