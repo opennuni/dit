@@ -33,4 +33,7 @@ Cloud computing resources such as storage space, processing power and software a
 *An effective IT infrastructure facilitates efficient data management, seamless communications, increased productivity and seamless collaboration within an organisation. Businesses must regularly assess and upgrade their IT infrastructure to keep pace with technological innovations while meeting changing business requirements.*
 
 
+[***Next Hardware and Software Components 👉***](https://opennuni.github.io/dit/M1/L4/HSC.html)
+
+
 © Openn University initiated under [ECL-1.0](#) [AFL-3.0](#) 
